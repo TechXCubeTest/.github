@@ -1,12 +1,42 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+## 🚀 Class Workspace | Project Hub
 
-**Here are some ideas to get you started:**
+Welcome to the central repository hub for our cohort. This workspace contains the baseline templates, documentation, and reference architectures required for your upcoming projects.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 📌 Getting Started
+
+To begin working on your assigned tasks, please locate your specific repository and follow the initialization steps below.
+
+### 📋 Prerequisites
+Before you clone the code, ensure you have the following installed on your local machine:
+* **Git:** Version 2.30+
+* **Node.js:** LTS version (v20 or higher)
+* **Package Manager:** `npm` or `pnpm`
+
+### 🔧 How to Clone and Run
+1. Copy your repository's clone URL from the top of the page.
+2. Open your terminal and run the following commands:
+
+```bash
+# Clone the repository locally
+git clone https://github.com
+
+# Navigate into the project directory
+cd your-assigned-repo
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+---
+
+## 🛠️ Code Review Workflow
+
+We use a structured pull request workflow to deliver feedback on your milestones.
+
